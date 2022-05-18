@@ -1,5 +1,9 @@
 homepage whonix.org
 
+# Warning! This repository will soon be deprecated!
+
+This is because this html website will be converted to mediawiki format.
+
 # Development Goals
 
 ## No Third Party Resources

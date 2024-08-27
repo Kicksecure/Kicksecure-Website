@@ -1,4 +1,4 @@
-homepage whonix.org
+homepage kicksecure.com
 
 # Warning! This repository will soon be deprecated!
 
@@ -8,7 +8,7 @@ This is because this html website will be converted to mediawiki format.
 
 ## No Third Party Resources
 
-- Not fetching anything other than from whonix.org.
+- Not fetching anything other than from kicksecure.com.
 
 ## Compatibility
 
@@ -30,22 +30,22 @@ https://validator.w3.org
 
 * Image conversion, resize and optimization is left to `ngx_pagespeed`.
 * Not using relative links.
-  * Using hardcoded, direct, full links to whonix.org images.
+  * Using hardcoded, direct, full links to kicksecure.com images.
   * `ngx_pagespeed` filter `trim_urls` will convert them to relative links on the server on the fly.
 
 # Links
 
 ## Standard
 
-* https://www.whonix.org
-* https://www.whonix.org/home.css
+* https://www.kicksecure.com
+* https://www.kicksecure.com/home.css
 
 ## Debugging
 
-* https://www.whonix.org?PageSpeedFilters=+debug
-* https://www.whonix.org?PageSpeed=off
+* https://www.kicksecure.com?PageSpeedFilters=+debug
+* https://www.kicksecure.com?PageSpeed=off
 
 ## Caching Issues?
 
-* https://www.whonix.org?PageSpeed=off
-* https://www.whonix.org/home.css?PageSpeed=off
+* https://www.kicksecure.com?PageSpeed=off
+* https://www.kicksecure.com/home.css?PageSpeed=off
